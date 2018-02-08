@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HceDemoDK</string>
+    <string name="aiddescription">ForDroidKaigiDemo</string>
+    <string name="servicedesc">DroidKaigiDemoService</string>
+</resources>
