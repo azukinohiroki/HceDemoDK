@@ -65,7 +65,7 @@ class ReaderFragment : Fragment(), ReaderCallback, View.OnClickListener {
 		adapter.enableReaderMode(
 				activity,
 				this,
-				NfcAdapter.FLAG_READER_NFC_F or NfcAdapter.FLAG_READER_SKIP_NDEF_CHECK,
+				NfcAdapter.FLAG_READER_NFC_A or NfcAdapter.FLAG_READER_SKIP_NDEF_CHECK,
 				null)
 	}
 
